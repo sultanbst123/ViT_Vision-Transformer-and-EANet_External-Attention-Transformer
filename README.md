@@ -8,11 +8,14 @@
 
 Vision Transformer(ViT) adalah model untuk klasifikasi citra(image classification) yang mempekerjakan Transformer arsitektur. Gambar dipecah menjadi tambalan berukuran tetap, masing-masing kemudian disematkan secara linier, penyematan posisi ditambahkan, dan urutan vektor yang dihasilkan diumpankan ke enkoder Transformer standar, Untuk melakukan klasifikasi.
 
+untuk lebih lanjut silahkan liat paper. 
+Paper: <p><a href="https://arxiv.org/pdf/1905.04899"> mixup: Beyond Empiris Risk Minimization</a> [Zhang et al., 2017]</p>
+
 ## External Attention Transformer(EANet) 
 
 Model EANet hanya mengganti Self-Attention, perbedaan antara [0]Self-Attention dan [1]External-Attention adalah  [1]Perhatian eksternal(External Attention) memiliki kompleksitas linier dan secara implisit mempertimbangkan korelasi antara semua sampel data sementara  
 [0]Self-Attention memiliki kompleksitas kuadrat dan mengabaikan potensi korelasi antara sampel yang berbeda.
 
 ## Referensi 
+Paper: <p><a href="https://ai.googleblog.com/2020/12/transformers-for-image-recognition-at.html?m=1"> http://ai.googleblog.com/2020/12/transformers-for-image-recognition-at.html</a> [Zhang et al., 2017]</p>
 
-https://ai.googleblog.com/2020/12/transformers-for-image-recognition-at.html?m=1
