@@ -16,6 +16,9 @@ Paper: <p><a href="https://arxiv.org/pdf/1905.04899"> mixup: Beyond Empiris Risk
 Model EANet hanya mengganti Self-Attention, perbedaan antara [0]Self-Attention dan [1]External-Attention adalah  [1]Perhatian eksternal(External Attention) memiliki kompleksitas linier dan secara implisit mempertimbangkan korelasi antara semua sampel data sementara  
 [0]Self-Attention memiliki kompleksitas kuadrat dan mengabaikan potensi korelasi antara sampel yang berbeda.
 
+untuk lebih lanjut silahkan liat paper. 
+Paper: <p><a href="https://arxiv.org/pdf/2105.02358"> Beyond Self-attention: External Attention using Two Linear Layers for Visual Tasks</a> [Zhang et al., 2017]</p>
+
 ## Referensi 
 
 - <p><a href="https://ai.googleblog.com/2020/12/transformers-for-image-recognition-at.html?m=1">Transformers for Image Recognition at Scale</a></p>
