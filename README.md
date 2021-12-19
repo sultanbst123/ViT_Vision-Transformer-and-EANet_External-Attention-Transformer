@@ -10,5 +10,9 @@ Vision Transformer(ViT) adalah model untuk klasifikasi citra(image classificatio
 
 ## External Attention Transformer
 
-Model EANet hanya mengganti Self-Attention, Perhatian eksternal(External Attention) memiliki kompleksitas linier dan secara implisit mempertimbangkan korelasi antara semua sampel data karena
+Model EANet hanya mengganti Self-Attention, perbedaan antara Self-Attention dan External-Attention adalah  Perhatian eksternal(External Attention) memiliki kompleksitas linier dan secara implisit mempertimbangkan korelasi antara semua sampel data dan 
 Self-Attention memiliki kompleksitas kuadrat dan mengabaikan potensi korelasi antara sampel yang berbeda.
+
+## Referensi 
+
+
