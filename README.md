@@ -17,5 +17,6 @@ Model EANet hanya mengganti Self-Attention, perbedaan antara [0]Self-Attention d
 [0]Self-Attention memiliki kompleksitas kuadrat dan mengabaikan potensi korelasi antara sampel yang berbeda.
 
 ## Referensi 
-Paper: <p><a href="https://ai.googleblog.com/2020/12/transformers-for-image-recognition-at.html?m=1"></a> Transformers for Image Recognition at Scale</p>
+
+Paper: <p><a href="https://ai.googleblog.com/2020/12/transformers-for-image-recognition-at.html?m=1">https://ai.googleblog.com/2020/12/transformers-for-image-recognition-at.html?m=1</a>hh</p>
 
