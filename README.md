@@ -18,5 +18,5 @@ Model EANet hanya mengganti Self-Attention, perbedaan antara [0]Self-Attention d
 
 ## Referensi 
 
-Paper: <p><a href="https://ai.googleblog.com/2020/12/transformers-for-image-recognition-at.html?m=1">https://ai.googleblog.com/2020/12/transformers-for-image-recognition-at.html?m=1</a>hh</p>
+Paper: <p><a href="https://ai.googleblog.com/2020/12/transformers-for-image-recognition-at.html?m=1">Transformers for Image Recognition at Scale</a>hh</p>
 
