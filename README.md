@@ -24,6 +24,19 @@ Model EANet hanya mengganti Self-Attention, perbedaan antara [0]Self-Attention d
 untuk lebih lanjut silahkan liat paper. 
 Paper: <p><a href="https://arxiv.org/pdf/2105.02358"> Beyond Self-attention: External Attention using Two Linear Layers for Visual Tasks</a></p>
 
+## Laporan
+Setelah berlatih dengan 10 epoch dan adabelief optimizer dengan Triangular2CyclicalLearningRate
+
+validation_accuracy = 76%
+validation_top5_accuracy = 98%
+test_accuracy = 70%
+
+Note: kalian bisa ber-eksperimen sendiri seperti: 
+-menambahkan epoch lebih banyak
+-menambahkan layers transformers
+-mengubah ukuran gambar(224 recommend)
+-mengubah ukuran tambalan(patches)
+
 ## Referensi 
 
 - <p><a href="https://ai.googleblog.com/2020/12/transformers-for-image-recognition-at.html?m=1">Transformers for Image Recognition at Scale</a></p>
