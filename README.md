@@ -31,7 +31,8 @@ validation_accuracy = 76%
 validation_top5_accuracy = 98%
 test_accuracy = 70%
 
-Note: kalian bisa ber-eksperimen sendiri seperti: 
+###Note
+kalian bisa ber-eksperimen sendiri seperti: 
 
 -menambahkan epoch lebih banyak
 
