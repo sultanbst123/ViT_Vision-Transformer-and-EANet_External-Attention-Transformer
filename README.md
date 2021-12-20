@@ -40,6 +40,7 @@ kalian bisa ber-eksperimen sendiri seperti:
 - menambahkan layers transformers
 - mengubah ukuran gambar(224 recommend)
 - mengubah ukuran tambalan(patches)
+- mengunakan CutMix & MixUp Augmentation 
 
 ## Referensi 
 
