@@ -34,8 +34,11 @@ test_accuracy = 70%
 Note: kalian bisa ber-eksperimen sendiri seperti: 
 
 -menambahkan epoch lebih banyak
+
 -menambahkan layers transformers
+
 -mengubah ukuran gambar(224 recommend)
+
 -mengubah ukuran tambalan(patches)
 
 ## Referensi 
